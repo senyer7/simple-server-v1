@@ -1,0 +1,12 @@
+.footer {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.footer__text {
+  font-size: 16px;
+  color: var(--footer-text);
+  text-align: center;
+}
