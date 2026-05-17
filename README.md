@@ -2,6 +2,10 @@
 
 учебный проект — регистрация и авторизация с нуля.
 
+## дизайн
+
+макет в figma — [открыть](https://www.figma.com/design/ONfQ1zufkeQkMJMibo6lCH/Untitled?node-id=0-1&t=sZQyGLZTvtslFvJT-1)
+
 ## стек
 
 - **frontend** — react + typescript + vite
